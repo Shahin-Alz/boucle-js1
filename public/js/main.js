@@ -24,28 +24,25 @@
 
 
 
-// N3 pas fonctionnel + pc qui chauffe inshallah jfais pas de connerie
+// N3 
 
-// let i = 20;
-
-// do {
-//     i = i % 2;
-
-// } 
-// while (i < 20);
-
-// console.log(i);
-
-
-// let result = '';
+//let nombre = 2;
+// let tab = Array();
 // let i = 0;
 
-// do {
-//     i = i + 1;
-//     result = result + i;
-// } while (i % 20);
 
-// console.log(resul2);
+// while (tab.length < 10) {
+
+//     if (nombre % 2 == 0) {
+//         tab[i] = nombre;
+//         i++;
+//     }
+//     nombre++;
+// }
+// for (i = 0; i < tab.length; i++) {
+//console.log(tab);
+
+// }
 
 
 
@@ -93,3 +90,27 @@
 // }
 
 // n8
+
+
+
+
+
+// PARTIE 2 DES EXOS
+
+// let nombre = 2;
+// let tab = Array();
+// let i = 0;
+
+
+// while (tab.length < 10) {
+
+//     if (nombre % 2 == 0) {
+//         tab[i] = nombre;
+//         i++;
+//     }
+//     nombre++;
+// }
+// for (i = 0; i < tab.length; i++) {
+//     alert("les nombres paires sont:" + tab);
+
+// }
